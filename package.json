@@ -1,0 +1,11 @@
+{
+  "name": "simple-mono-fullcontext-label-converter",
+  "version": "1.0.0",
+  "description": "Simple mono to fullcontext label converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Renorari",
+  "license": "MIT"
+}
